@@ -1,5 +1,5 @@
-import Profile from "../components/Profile";
+import NavigationBar from "../components/Nav";
 
 export default function Home() {
-  return <Profile />;
+  return <NavigationBar />;
 }
